@@ -1,0 +1,21 @@
+* {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+}
+
+.input {
+  height: 38px;
+  border-radius: 3px;
+  max-width: 300px;
+  width: 150%;
+  border: 1px solid #1c1c1c;
+  margin: 12px 0;
+  padding: 8px;
+  outline: none;
+}
